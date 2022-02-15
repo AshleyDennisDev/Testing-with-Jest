@@ -23,4 +23,3 @@ const exponent = (num, power) => {
     return num ** power
 }
 module.exports = {sum, square, cube};
-//update
